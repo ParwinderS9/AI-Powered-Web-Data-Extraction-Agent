@@ -1,3 +1,5 @@
+An AI Web Scraping Agent is an intelligent, LLM-powered system that goes beyond fixed rules (like BeautifulSoup + regex) and instead reasons, adapts, and automates the process of extracting structured data from the web.
+
 ***Key Features***
 
 1. ReAct-based reasoning – Combines reasoning and action for adaptive multi-step scraping.
@@ -18,3 +20,4 @@
 2. Automate research workflows with LLM-guided web exploration.
 
 3. Plug-and-play for data science, finance, and knowledge retrieval pipelines.
+
